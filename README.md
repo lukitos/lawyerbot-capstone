@@ -69,3 +69,15 @@ Note: API.AI has been recently renamed to Dialogflow
 
 #### Mobile app
 * React Native
+
+#### Design Decisions
+
+![Technology Decisions](images/decisions.png)
+
+### Conversation Flow Design
+
+The diagram below is a graphical representation of Intents built in Dialogflow. Each intent is represented by a box in the diagram.
+
+The purple section on top of each intent box is input context and the green section on the bottom of each intent box is the output context.
+
+![conversation](images/conversationflow.png)
