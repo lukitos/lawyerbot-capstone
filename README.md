@@ -18,7 +18,9 @@ John (the Personal Injury Lawyer) at the back office will be managing incoming l
 
 ![components](images/howitworks.png)
 
+You can view the demo recording below.
 
+[![endtoend](images/endtoend.png)](https://www.youtube.com/watch?v=azRjJF9_QYo)
 
 ## Architecture
 
