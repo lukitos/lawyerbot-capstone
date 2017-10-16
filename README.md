@@ -72,7 +72,7 @@ Note: API.AI has been recently renamed to Dialogflow
 #### Mobile application
 * React Native
 
-#### Design Decisions
+#### Technology Decisions
 
 ![Technology Decisions](images/techdecisions.png)
 
