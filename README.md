@@ -67,7 +67,7 @@ Note: API.AI has been recently renamed to Dialogflow
 * Bootstrap
 * Chart.js
 
-#### Mobile app
+#### Mobile application
 * React Native
 
 #### Design Decisions
