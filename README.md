@@ -4,6 +4,16 @@ Lawyer Bot is an AI Chatbot designed to keep website visitors engaged in an auto
 
 It is built for [Sting Marketing](http://sting.net) as a Minimum Viable Product (MVP) in order to validate the ability for conversational user experience platform (such as Dialogflow) to engage website visitors in an automated conversation and capture data from the conversation.
 
+## About this project
+
+Lawyer Bot is built as a capstone project for [Galvanize](https://www.galvanize.com/phoenix/campus).
+
+Time Constraints:
+* This project has to be completed in less than 2 weeks
+
+My role in this project:
+* I am the sole developer for this project
+
 ## How it works
 
 In order to best demonstrate Lawyer Bot, I'd like to introduce a scenario of a Personal Injury Law Firm with 2 roles:
