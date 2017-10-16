@@ -26,6 +26,8 @@ In our Personal Injury Firm scenario, if Lisa the potential customer decides to 
 
 Once the customer's information is stored in the database, the lawyer can access and work with the information from either Dashboard or Mobile app.
 
+Authentication on the Dashboard is implemented by utilizing Firebase and the automated conversation is designed using Dialogflow.
+
 ![architecture](images/architecture.png)
 
 Lawyer Bot consists of 4 components
