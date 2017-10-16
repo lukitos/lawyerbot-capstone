@@ -22,6 +22,10 @@ John (the Personal Injury Lawyer) at the back office will be managing incoming l
 
 ## Architecture
 
+In our Personal Injury Firm scenario, if Lisa the potential customer decides to provide her information (name, phone, email) during the conversation with the Chatbot, the data captured will be stored in the database. This is done through the REST API calls.
+
+Once the customer's information is stored in the database, the lawyer can access and work with the information from either Dashboard or Mobile app.
+
 ![architecture](images/architecture.png)
 
 Lawyer Bot consists of 4 components
