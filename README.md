@@ -72,7 +72,7 @@ Note: API.AI has been recently renamed to Dialogflow
 
 #### Design Decisions
 
-![Technology Decisions](images/decisions.png)
+![Technology Decisions](images/techdecisions.png)
 
 ### Conversation Flow Design
 
