@@ -1,8 +1,8 @@
 # Lawyer Bot
 
-Lawyer Bot is an AI Chatbot designed to keep website visitors engaged in an automated conversation with the goal of increasing the probability for conversion from inquiry to lead generation.
+Lawyer Bot is a suite of applications, containing an AI Chatbot designed to keep website visitors engaged in an automated conversation. The goal of the AI Chatbot is to increase the probability of conversion from inquiry to lead generation.
 
-It is built for [Sting Marketing](http://sting.net) as a Minimum Viable Product (MVP) in order to validate the ability for conversational user experience platform (such as Dialogflow) to engage website visitors in an automated conversation and capture data from the conversation.
+It is built for [Sting Marketing](http://sting.net) as a Minimum Viable Product (MVP) in order to validate the ability of conversational user experience platforms (such as Dialogflow) to engage users. The AI Chatbot engages website visitors in an automated conversation and capture data from the conversation as parameters.
 
 ## About this project
 
