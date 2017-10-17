@@ -93,3 +93,6 @@ The diagram below is a graphical representation of Intents built in Dialogflow. 
 The purple section on top of each intent box is input context and the green section on the bottom of each intent box is the output context.
 
 ![conversation](images/conversationflow.png)
+
+## License
+MIT
