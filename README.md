@@ -45,15 +45,14 @@ Authentication on the Dashboard is implemented by utilizing Firebase and the aut
 Lawyer Bot consists of 4 components
 * REST API
   * [https://github.com/lukitos/lawyerbot-api](https://github.com/lukitos/lawyerbot-api)
-  * [http://13.59.231.79:8000/api/contact](http://13.59.231.79:8000/api/contact)
 * AI Chatbot
   * [https://github.com/lukitos/lawyerbot-aichat](https://github.com/lukitos/lawyerbot-aichat)
-  * [http://18.221.134.160:4000/](http://18.221.134.160:4000/)
 * Lawyer Dashboard for CRM Lite
   * [https://github.com/lukitos/lawyerbot-crm-dashboard](https://github.com/lukitos/lawyerbot-crm-dashboard)
-  * [http://capstonelawyerbot.s3-website.us-east-2.amazonaws.com/](http://capstonelawyerbot.s3-website.us-east-2.amazonaws.com/)
 * Lawyer Mobile app for CRM Extra Lite
   * [https://github.com/lukitos/lawyerbot-crm-mobile](https://github.com/lukitos/lawyerbot-crm-mobile)
+
+`Note: URL to deployed apps are available upon request. Please email me at lukitos200@gmail.com to request for access.`
 
 And below are the technologies utilized to build Lawyer Bot's suite of applications.
 
