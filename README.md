@@ -53,7 +53,9 @@ Lawyer Bot consists of 4 components
   * [https://github.com/lukitos/lawyerbot-crm-mobile](https://github.com/lukitos/lawyerbot-crm-mobile)
 
 ```
-Note: URL to deployed apps are available upon request. Please email me at lukitos200@gmail.com to request for access.
+Note: 
+URL to deployed apps are available upon request. 
+Please email me at lukitos200@gmail.com to request for access.
 ```
 
 And below are the technologies utilized to build Lawyer Bot's suite of applications.
